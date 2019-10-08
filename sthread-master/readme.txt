@@ -1,6 +1,3 @@
-----------------------------------------------------
-sthread -a toy pthread library for educational purpose
-----------------------------------------------------
 Details:
 
 Thread interface: sthread.h
