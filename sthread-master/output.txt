@@ -1,0 +1,6100 @@
+entered init_thread
+left init_thread
+entered sthread_create
+sthread_create: id alloted to thread: 0
+first thread setting timer
+displaying current ready queue: threadid: 0
+left sthread_create
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 1 
+threadid: 0
+no next thread
+setting context to same thread
+executing main function yeasss!!!!!!!
+
+ mutex_init: id allocated 0
+entered sthread_create
+sthread_create: id alloted to thread: 1
+displaying current ready queue: threadid: 0
+threadid: 1
+left sthread_create
+entered sthread_create
+sthread_create: id alloted to thread: 2
+displaying current ready queue: threadid: 0
+threadid: 1
+threadid: 2
+left sthread_create
+entered sthread_create
+sthread_create: id alloted to thread: 3
+displaying current ready queue: threadid: 0
+threadid: 1
+threadid: 2
+threadid: 3
+left sthread_create
+waiting all thread to sthread_join 4
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 4 
+threadid: 0
+threadid: 1
+threadid: 2
+threadid: 3
+next thread to be executed: 1
+swapping context from 0 to 1
+entered mutex lock
+left mutex lock
+sum1 1
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 2
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 3
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 4
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 5
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 6
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 7
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 8
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 9
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 10
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 11
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 12
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 13
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 14
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 15
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 16
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 17
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 18
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 19
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 20
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 21
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 22
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 23
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 24
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 25
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 26
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 27
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 28
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 29
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 30
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 31
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 32
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 33
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 34
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 35
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 36
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 37
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 38
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 39
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 40
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 41
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 42
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 43
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 44
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 45
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 46
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 47
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 48
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 49
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 50
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 51
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 52
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 53
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 54
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 55
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 56
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 57
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 58
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 59
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 60
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 61
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 62
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 63
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 64
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 65
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 66
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 67
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 68
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 69
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 70
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 71
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 72
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 73
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 74
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 75
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 76
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 77
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 78
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 79
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 80
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 81
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 82
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 83
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 84
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 85
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 86
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 87
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 88
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 89
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 90
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 91
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 92
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 93
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 94
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 95
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 96
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 97
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 98
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 99
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 100
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 101
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 102
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 103
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 104
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 105
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 106
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 107
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 108
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 109
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 110
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 111
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 112
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 113
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 114
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 115
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 116
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 117
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 118
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 119
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 120
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 121
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 122
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 123
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 124
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 125
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 126
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 127
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 128
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 129
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 130
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 131
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 132
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 133
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 134
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 135
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 136
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 137
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 138
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 139
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 140
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 141
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 142
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 143
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 144
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 145
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 146
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 147
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 148
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 149
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 150
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 151
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 152
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 153
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 154
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 155
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 156
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 157
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 158
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 159
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 160
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 161
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 162
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 163
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 164
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 165
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 166
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 167
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 168
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 169
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 170
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 171
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 172
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 173
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 174
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 175
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 176
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 177
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 178
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 179
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 180
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 181
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 182
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 183
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 184
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 185
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 186
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 187
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 188
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 189
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 190
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 191
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 192
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 193
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 194
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 195
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 196
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 197
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 198
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 199
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 200
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 201
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 202
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 203
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 204
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 205
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 206
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 207
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 208
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 209
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 210
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 211
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 212
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 213
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 214
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 215
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 216
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 217
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 218
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 219
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 220
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 221
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 222
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 223
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 224
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 225
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 226
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 227
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 228
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 229
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 230
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 231
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 232
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 233
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 234
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 235
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 236
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 237
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 238
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 239
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 240
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 241
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 242
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 243
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 244
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 245
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 246
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 247
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 248
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 249
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 250
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 251
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 252
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 253
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 254
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 255
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 256
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 257
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 258
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 259
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 260
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 261
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 262
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 263
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 264
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 265
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 266
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 267
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 268
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 269
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 270
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 271
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 272
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 273
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 274
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 275
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 276
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 277
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 278
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 279
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 280
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 281
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 282
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 283
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 284
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 285
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 286
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 287
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 288
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 289
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 290
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 291
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 292
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 293
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 294
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 295
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 296
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 297
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 298
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 299
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 300
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 301
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 302
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 303
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 304
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 305
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 306
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 307
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 308
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 309
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 310
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 311
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 312
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 313
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 314
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 315
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 316
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 317
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 318
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 319
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 320
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 321
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 322
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 323
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 324
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 325
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 326
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 327
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 328
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 329
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 330
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 331
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 332
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 333
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 334
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 335
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 336
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 337
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 338
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 339
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 340
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 341
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 342
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 343
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 344
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 345
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 346
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 347
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 348
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 349
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 350
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 351
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 352
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 353
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 354
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 355
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 356
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 357
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 358
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 359
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 360
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 361
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 362
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 363
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 364
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 365
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 366
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 367
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 368
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 369
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 370
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 371
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 372
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 373
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 374
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 375
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 376
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 377
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 378
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 379
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 380
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 381
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 382
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 383
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 384
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 385
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 386
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 387
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 388
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 389
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 390
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 391
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 392
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 393
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 394
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 395
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 396
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 397
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 398
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 399
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum1 400
+enterd mutex unlock
+left mutex unlock
+fun1 finished
+entered sthread_exit.thread killed: 1
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 4 
+threadid: 0
+threadid: 1
+threadid: 2
+threadid: 3
+next thread to be executed: 2
+terminated thread 1 1and called schedulerr : removed. readyq display:
+threadid: 0
+threadid: 2
+threadid: 3
+entered mutex lock
+left mutex lock
+sum2----------- 401
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 402
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 403
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 404
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 405
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 406
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 407
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 408
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 409
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 410
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 411
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 412
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 413
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 414
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 415
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 416
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 417
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 418
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 419
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 420
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 421
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 422
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 423
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 424
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 425
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 426
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 427
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 428
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 429
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 430
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 431
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 432
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 433
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 434
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 435
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 436
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 437
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 438
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 439
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 440
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 441
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 442
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 443
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 444
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 445
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 446
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 447
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 448
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 449
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 450
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 451
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 452
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 453
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 454
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 455
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 456
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 457
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 458
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 459
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 460
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 461
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 462
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 463
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 464
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 465
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 466
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 467
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 468
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 469
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 470
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 471
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 472
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 473
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 474
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 475
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 476
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 477
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 478
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 479
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 480
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 481
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 482
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 483
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 484
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 485
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 486
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 487
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 488
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 489
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 490
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 491
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 492
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 493
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 494
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 495
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 496
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 497
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 498
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 499
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 500
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 501
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 502
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 503
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 504
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 505
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 506
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 507
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 508
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 509
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 510
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 511
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 512
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 513
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 514
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 515
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 516
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 517
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 518
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 519
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 520
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 521
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 522
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 523
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 524
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 525
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 526
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 527
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 528
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 529
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 530
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 531
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 532
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 533
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 534
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 535
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 536
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 537
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 538
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 539
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 540
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 541
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 542
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 543
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 544
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 545
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 546
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 547
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 548
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 549
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 550
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 551
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 552
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 553
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 554
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 555
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 556
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 557
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 558
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 559
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 560
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 561
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 562
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 563
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 564
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 565
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 566
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 567
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 568
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 569
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 570
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 571
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 572
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 573
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 574
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 575
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 576
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 577
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 578
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 579
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 580
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 581
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 582
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 583
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 584
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 585
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 586
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 587
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 588
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 589
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 590
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 591
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 592
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 593
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 594
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 595
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 596
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 597
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 598
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 599
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 600
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 601
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 602
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 603
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 604
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 605
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 606
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 607
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 608
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 609
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 610
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 611
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 612
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 613
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 614
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 615
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 616
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 617
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 618
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 619
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 620
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 621
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 622
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 623
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 624
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 625
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 626
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 627
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 628
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 629
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 630
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 631
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 632
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 633
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 634
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 635
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 636
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 637
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 638
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 639
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 640
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 641
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 642
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 643
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 644
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 645
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 646
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 647
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 648
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 649
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 650
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 651
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 652
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 653
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 654
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 655
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 656
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 657
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 658
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 659
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 660
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 661
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 662
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 663
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 664
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 665
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 666
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 667
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 668
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 669
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 670
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 671
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 672
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 673
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 674
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 675
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 676
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 677
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 678
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 679
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 680
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 681
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 682
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 683
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 684
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 685
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 686
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 687
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 688
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 689
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 690
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 691
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 692
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 693
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 694
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 695
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 696
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 697
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 698
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 699
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 700
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 701
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 702
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 703
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 704
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 705
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 706
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 707
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 708
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 709
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 710
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 711
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 712
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 713
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 714
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 715
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 716
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 717
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 718
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 719
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 720
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 721
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 722
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 723
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 724
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 725
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 726
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 727
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 728
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 729
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 730
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 731
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 732
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 733
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 734
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 735
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 736
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 737
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 738
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 739
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 740
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 741
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 742
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 743
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 744
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 745
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 746
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 747
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 748
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 749
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 750
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 751
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 752
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 753
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 754
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 755
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 756
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 757
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 758
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 759
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 760
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 761
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 762
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 763
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 764
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 765
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 766
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 767
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 768
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 769
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 770
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 771
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 772
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 773
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 774
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 775
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 776
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 777
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 778
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 779
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 780
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 781
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 782
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 783
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 784
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 785
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 786
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 787
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 788
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 789
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 790
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 791
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 792
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 793
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 794
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 795
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 796
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 797
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 798
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 799
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum2----------- 800
+enterd mutex unlock
+left mutex unlock
+fun2 finished
+entered sthread_exit.thread killed: 2
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 3 
+threadid: 0
+threadid: 2
+threadid: 3
+next thread to be executed: 3
+terminated thread 2 2and called schedulerr : removed. readyq display:
+threadid: 0
+threadid: 3
+entered mutex lock
+left mutex lock
+sum3----------- 801
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 802
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 803
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 804
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 805
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 806
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 807
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 808
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 809
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 810
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 811
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 812
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 813
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 814
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 815
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 816
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 817
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 818
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 819
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 820
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 821
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 822
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 823
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 824
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 825
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 826
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 827
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 828
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 829
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 830
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 831
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 832
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 833
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 834
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 835
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 836
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 837
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 838
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 839
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 840
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 841
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 842
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 843
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 844
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 845
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 846
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 847
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 848
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 849
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 850
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 851
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 852
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 853
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 854
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 855
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 856
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 857
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 858
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 859
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 860
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 861
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 862
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 863
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 864
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 865
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 866
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 867
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 868
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 869
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 870
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 871
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 872
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 873
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 874
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 875
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 876
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 877
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 878
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 879
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 880
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 881
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 882
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 883
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 884
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 885
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 886
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 887
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 888
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 889
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 890
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 891
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 892
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 893
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 894
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 895
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 896
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 897
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 898
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 899
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 900
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 901
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 902
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 903
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 904
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 905
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 906
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 907
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 908
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 909
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 910
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 911
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 912
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 913
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 914
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 915
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 916
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 917
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 918
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 919
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 920
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 921
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 922
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 923
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 924
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 925
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 926
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 927
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 928
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 929
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 930
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 931
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 932
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 933
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 934
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 935
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 936
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 937
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 938
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 939
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 940
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 941
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 942
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 943
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 944
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 945
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 946
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 947
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 948
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 949
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 950
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 951
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 952
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 953
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 954
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 955
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 956
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 957
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 958
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 959
+enterd mutex unlock
+left mutex unlock
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 2 
+threadid: 0
+threadid: 3
+next thread to be executed: 0
+swapping context from 3 to 0
+leaving schedulerr.
+waiting all thread to sthread_join 2
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 2 
+threadid: 0
+threadid: 3
+next thread to be executed: 3
+swapping context from 0 to 3
+leaving schedulerr.
+entered mutex lock
+left mutex lock
+sum3----------- 960
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 961
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 962
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 963
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 964
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 965
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 966
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 967
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 968
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 969
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 970
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 971
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 972
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 973
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 974
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 975
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 976
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 977
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 978
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 979
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 980
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 981
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 982
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 983
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 984
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 985
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 986
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 987
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 988
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 989
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 990
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 991
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 992
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 993
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 994
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 995
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 996
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 997
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 998
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 999
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1000
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1001
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1002
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1003
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1004
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1005
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1006
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1007
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1008
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1009
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1010
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1011
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1012
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1013
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1014
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1015
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1016
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1017
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1018
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1019
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1020
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1021
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1022
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1023
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1024
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1025
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1026
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1027
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1028
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1029
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1030
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1031
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1032
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1033
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1034
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1035
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1036
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1037
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1038
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1039
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1040
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1041
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1042
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1043
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1044
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1045
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1046
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1047
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1048
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1049
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1050
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1051
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1052
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1053
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1054
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1055
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1056
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1057
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1058
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1059
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1060
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1061
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1062
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1063
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1064
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1065
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1066
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1067
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1068
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1069
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1070
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1071
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1072
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1073
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1074
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1075
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1076
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1077
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1078
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1079
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1080
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1081
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1082
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1083
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1084
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1085
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1086
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1087
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1088
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1089
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1090
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1091
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1092
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1093
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1094
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1095
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1096
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1097
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1098
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1099
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1100
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1101
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1102
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1103
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1104
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1105
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1106
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1107
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1108
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1109
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1110
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1111
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1112
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1113
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1114
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1115
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1116
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1117
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1118
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1119
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1120
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1121
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1122
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1123
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1124
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1125
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1126
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1127
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1128
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1129
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1130
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1131
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1132
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1133
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1134
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1135
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1136
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1137
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1138
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1139
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1140
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1141
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1142
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1143
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1144
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1145
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1146
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1147
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1148
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1149
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1150
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1151
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1152
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1153
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1154
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1155
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1156
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1157
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1158
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1159
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1160
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1161
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1162
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1163
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1164
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1165
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1166
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1167
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1168
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1169
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1170
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1171
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1172
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1173
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1174
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1175
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1176
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1177
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1178
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1179
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1180
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1181
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1182
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1183
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1184
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1185
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1186
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1187
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1188
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1189
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1190
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1191
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1192
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1193
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1194
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1195
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1196
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1197
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1198
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1199
+enterd mutex unlock
+left mutex unlock
+entered mutex lock
+left mutex lock
+sum3----------- 1200
+enterd mutex unlock
+left mutex unlock
+fun3 finished
+entered sthread_exit.thread killed: 3
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 2 
+threadid: 0
+threadid: 3
+next thread to be executed: 0
+terminated thread 3 3and called schedulerr : removed. readyq display:
+threadid: 0
+leaving schedulerr.
+
+main finished ans: 1200 
+entered sthread_exit.thread killed: 0
+Scheduler: entered scheduler. Bacha gelo!!!!!!!!!!!!
+q->count is 1 
+threadid: 0
+no next thread
+schedulerr called after terminated thread 0 0: removed. readyq display:
+stopping execution
