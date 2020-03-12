@@ -1,6 +1,4 @@
-#Author :Shuvojit
-#Date: 8-11-2015
-#make file for sthread library
+
 CC = gcc
 CFLAGS = -c -Wall
 
